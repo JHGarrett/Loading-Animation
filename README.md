@@ -1,4 +1,5 @@
 ## Loading Animation
+<img src="/img.png">
 
 # About
 
