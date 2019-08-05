@@ -3,7 +3,7 @@
 
 # About
 
-A smiple loading animation that will be implemented with Swift for iOS development. 
+A simple loading animation that will be implemented with Swift for iOS development. 
 
 # Demo
 
